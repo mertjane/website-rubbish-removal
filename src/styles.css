@@ -174,13 +174,13 @@ footer .footer-text {
 
   .card_content {
     width: 100%;
-    height: 320px;
+    height: 240px;
     padding: 0 10px;
     display: flex;
   }
 
   .card_content .title-box h2 {
-    font-size: 28px;
+    font-size: 24px;
     color: #fff;
     font-weight: 600;
   }
@@ -188,7 +188,7 @@ footer .footer-text {
   .card_content .title-box .desc {
     color: #ffffffd0;
     margin-top: 12px;
-
+    font-size: 14px;
   }
 
   .content-img {
