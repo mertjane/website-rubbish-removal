@@ -140,6 +140,7 @@ footer .footer-text {
   }
 
   .brand-logo {
+    width: 50px;
     font-size: 18px;
     line-height: 16px;
     text-align: left;
