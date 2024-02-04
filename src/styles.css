@@ -140,15 +140,14 @@ footer .footer-text {
   }
 
   .brand-logo {
-    width: 50px;
-    border: 1px solid white;
+    width: 100px;
     font-size: 18px;
     line-height: 16px;
     text-align: left;
   }
 
   header .menu {
-    margin-left: 10px;
+    margin-left: 120px;
     gap: 10px !important;
   }
 
