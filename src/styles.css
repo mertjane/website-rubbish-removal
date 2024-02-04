@@ -135,6 +135,7 @@ footer .footer-text {
 
 @media only screen and (max-width: 768px) {
   header {
+    width: 100%;
     padding: 0 10px; /* Adjusted padding for smaller screens */
   }
 
@@ -142,6 +143,10 @@ footer .footer-text {
     font-size: 18px;
     line-height: 16px;
     text-align: left;
+  }
+
+  header .menu {
+    gap: 10px !important;
   }
 
   header .menu .menu-item {
