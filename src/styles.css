@@ -83,6 +83,10 @@ header .menu .menu-item {
   font-weight: 200;
 }
 
+span{
+    font-weight: 800;
+  }
+
 .card_content .title-box .desc {
   color: #ffffffd0;
   margin-top: 25px;
