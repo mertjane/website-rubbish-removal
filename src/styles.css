@@ -146,6 +146,7 @@ footer .footer-text {
   }
 
   header .menu {
+    margin-left: 30px;
     gap: 10px !important;
   }
 
