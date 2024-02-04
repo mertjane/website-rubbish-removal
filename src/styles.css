@@ -92,6 +92,11 @@ span{
   margin-top: 25px;
 }
 
+.card_content .title-box .tel {
+    color: #ffffffd0;
+    margin-top: 25px;
+  }
+
 .content-img {
   width: 55%;
 }
@@ -188,7 +193,7 @@ footer .footer-text {
   .card_content .title-box .desc {
     color: #ffffffd0;
     margin-top: 12px;
-    font-size: 14px;
+    font-size: 10px;
   }
 
   .content-img {
