@@ -486,8 +486,6 @@
   .greeting-content {
     width: 100% !important;
     height: 100% !important;
-    border: 2px solid white;
-
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -499,7 +497,7 @@
     color: #fff;
     font-size: 55px !important;
     width: min-content;
-    font-weight: 1000;
+    font-weight: 1000 !important;
     margin: 20px 12px;
     line-height: 50px;
   }
@@ -515,7 +513,7 @@
 
   .my-btn {
     width: 210px;
-    height: 50px;
+    height: 50px !important;
     cursor: pointer;
     font-size: 18px;
     outline: none;
