@@ -489,7 +489,9 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    padding: 120px 24px !important;
+    padding-top: 200px !important;
+    padding-left: 24px !important;
+    padding-right: 24px !important; 
   }
 
   .greeting-content .greeting-title {
