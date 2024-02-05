@@ -402,7 +402,7 @@
   .header-wrapper {
     width: 100%;
     background-color: #fff;
-    padding: 0 12px;
+    padding-right: 12px;
     position: fixed;
     margin-top: 0 !important;
   }
@@ -410,7 +410,7 @@
   .header-wrapper .brand-logo {
     margin-left: 0;
     font-size: 22px;
-    width: 260px;
+    width: 240px;
   }
 
   .header-menu {
@@ -427,18 +427,18 @@
   }
 
   .header-wrapper .phone-box {
-    font-size: 15px;
+    font-size: 10px;
     box-sizing: border-box;
     position: fixed;
     display: flex;
     align-items: center;
-    right: 85px;
+    right: 70px;
   }
 
   .header-wrapper .phone-box span {
-    font-size: 18px;
+    font-size: 10px;
   }
-
+  
   .menu.show-menu {
     display: flex;
     flex-direction: column; /* Display menu items in a column */
